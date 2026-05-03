@@ -1,0 +1,29 @@
+{
+  "earthquake": {
+    "description": "Sudden shaking of the ground due to tectonic movement.",
+    "steps": [
+      "Drop, Cover, and Hold On",
+      "Stay away from windows",
+      "Do not use elevators",
+      "Move to open area after shaking stops"
+    ]
+  },
+  "flood": {
+    "description": "Overflow of water that submerges land.",
+    "steps": [
+      "Move to higher ground",
+      "Avoid walking in water",
+      "Disconnect electrical appliances",
+      "Follow evacuation instructions"
+    ]
+  },
+  "fire": {
+    "description": "Uncontrolled burning causing damage.",
+    "steps": [
+      "Use fire extinguisher if safe",
+      "Do not use elevators",
+      "Stay low to avoid smoke",
+      "Exit building immediately"
+    ]
+  }
+}
